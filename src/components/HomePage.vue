@@ -481,8 +481,9 @@ const scrollToProjectSection = () => {
 }
 .left-section{
     flex: 1;
-    background: url(../photos/my-photo-bw2.png);
+    background: url(../photos/cv2.png);
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
 }
 .right-section{
@@ -934,8 +935,9 @@ h1 {
 }
 .left-section{
     flex: 1;
-    background: url(../photos/my-photo-bw2.png);
+    background: url(../photos/cv2.png);
     background-size: contain;
+    background-position: center;
     background-repeat: no-repeat;
 }
 .right-section{
