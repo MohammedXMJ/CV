@@ -963,6 +963,7 @@ h1 {
     display: flex;
     flex-direction: column;
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 3vh;
 }
 h1 {
   font-size: 2em;
